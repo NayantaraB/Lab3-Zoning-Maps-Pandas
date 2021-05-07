@@ -1,5 +1,8 @@
 #Name: Nayantara Biswas
-#
+#Date: 05/06/2021
+#Assignment: Lab 3-Zoning-Maps-Pandas
+#Inputs:   
+#Output: Refugee population in each country
 
 # Add gis packages to colab environment
 !pip install geopandas
